@@ -1,1 +1,2 @@
 This is gitskills files.
+Creating a new branch is quick & simple.
